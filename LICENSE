@@ -1,0 +1,53 @@
+Creative Commons Attribution-NonCommercial 4.0 International  
+(CC BY-NC 4.0)
+
+Copyright (c) 2025 Norman S. (Chang Hwei Soh)
+
+This repository and all associated code, models, notebooks, documentation, 
+and derived materials are licensed under the Creative Commons 
+Attribution-NonCommercial 4.0 International License ("CC BY-NC 4.0").
+
+You are free to:
+
+  • Share — copy and redistribute the material in any medium or format  
+  • Adapt — remix, transform, and build upon the material  
+
+Under the following terms:
+
+  • Attribution — You must give appropriate credit, provide a link to the 
+    original work, and indicate if changes were made. Academic use must cite:
+    
+      Norman S. (Chang Hwei Soh), "Governed Stability Toolkit", Zenodo (2025).  
+      DOI: <insert your Zenodo DOI here>
+
+  • NonCommercial — You may not use the material for commercial purposes.  
+    Commercial use includes (but is not limited to) use in products, 
+    services, paid consulting, corporate systems, or any activity whose 
+    primary purpose is commercial advantage or monetary compensation.
+
+Additional IP Terms (Governed-Stability Clause):
+
+  • The governed-stability meta-law (Φ̇ ≤ 0, Ψ̇ ≥ 0, Λ̇ ≥ 0, Σ̇ ≈ 0), its 
+    mathematical formulation, runtime implementation, structural constraints, 
+    and associated theoretical extensions remain the intellectual property 
+    of the author.
+
+  • Any commercial application, integration, deployment, or derivative use 
+    of the governed-stability framework, its runtime, or its models requires 
+    explicit written permission from the author.
+
+  • No patent may be filed using any part of this repository, its theory, or 
+    its implementations without written authorization from the author.
+
+No additional restrictions:
+
+  • You may not apply legal terms or technological measures that legally 
+    restrict others from doing anything the license permits.
+
+The full license text is available at:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+DISCLAIMER  
+This software and framework are provided "as is" without warranty of any kind. 
+The author is not liable for any damages arising from its use.
+
